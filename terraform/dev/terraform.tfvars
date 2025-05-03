@@ -1,0 +1,5 @@
+region             = "us-east-1"
+environment        = "dev"
+vpc_cidr           = "10.0.1.0/24"
+public_subnet_cidr = "10.0.1.64/26"
+private_subnet_cidr = "10.0.1.128/26"
