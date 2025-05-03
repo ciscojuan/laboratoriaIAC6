@@ -40,3 +40,5 @@ Este proyecto implementa la infraestructura de red para el ambiente de desarroll
 ## Variables
 
 Las variables están definidas en `variables.tf` y sus valores por defecto en `terraform.tfvars`. Puedes modificar estos valores según tus necesidades.
+
+Grupo 1
